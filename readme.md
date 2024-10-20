@@ -6,7 +6,7 @@ This project automates the deployment of a static website hosted on Google Cloud
 
 1. A Google Cloud Storage bucket for hosting static content (HTML).
 2. A Google Compute Global Static IP address for the website.
-3. Google Cloud DNS for managing domain records (e.g., `website.daniel-devops.com`).
+3. Google Cloud DNS for managing domain records.
 4. A Google Cloud Load Balancer for distributing traffic to the backend.
 5. SSL certificates to enable HTTPS traffic with a Google-managed certificate.
 6. Terraform state is stored in a Google Cloud Storage bucket for state management.
