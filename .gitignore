@@ -1,0 +1,9 @@
+access/project1-access.json
+infra/.terraform/
+infra/.terraform.lock.hcl
+infra/.terraform.lock.hcl.tmp
+infra/terraform.tfstate
+infra/terraform.tfstate.backup
+infra/terraform.tfstate.plan
+infra/terraform.tfstate.d/
+infra/terraform.tfvars
